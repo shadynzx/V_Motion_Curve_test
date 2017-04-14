@@ -29,7 +29,7 @@ void setup() {
 
 void draw() {
   // I DONT LIKE SLEEP
-  //background(0);
+
   fill (0, 75);
   noStroke();
   rect (0, 0, width, height);
