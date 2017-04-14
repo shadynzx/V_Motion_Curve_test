@@ -14,6 +14,7 @@ Minim minim;
 SyphonServer server;
 VizAudio vizAudio;
 //PUSSY PUSSY PUSSY
+//DELETE PUSSY PLEASE
 void settings() {
   size(1024, 768, P3D);
   PJOGL.profile=1;
@@ -27,7 +28,7 @@ void setup() {
 }
 
 void draw() {
-
+  // I DONT LIKE SLEEP
   //background(0);
   fill (0, 75);
   noStroke();
