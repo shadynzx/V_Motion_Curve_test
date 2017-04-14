@@ -29,7 +29,6 @@ void setup() {
 
 void draw() {
   // I DONT LIKE SLEEP
-
   fill (0, 75);
   noStroke();
   rect (0, 0, width, height);
